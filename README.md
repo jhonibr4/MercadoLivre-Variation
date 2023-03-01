@@ -1,4 +1,4 @@
-#Mercado Livre Variações
+# Mercado Livre Variações
 
 - Essa aplicação foi criada para trazer todas as informações de variações de um produto do Mercado Livre. Essas informações são muito util para vendedores do e-commerce porque caso eles queiram integrar seus produtos e esses produtos possuirem variações é necessário de pelo menos o ID dessas variações, e para encontrar essas variações é possível encontrar pela própria API do Mercado Livre. Mas o problema é que para as pessoas que não tem conhecimento com esses códigos acaba sendo e até mesmo a para quem entende acaba sendo uma tarefa demorada de encontrar o que elas estão buscando.
 

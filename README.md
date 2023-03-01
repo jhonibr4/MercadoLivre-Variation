@@ -9,9 +9,9 @@ Mercado Livre Variações
 <img src='./assets/imageEmpty.jpeg' width={300}/>
 
 - Para fazer uma busca do produto que deseja só preciso do código do produto que se encontra na própria URL do produto que se encontra no exemplo abaixo:
+- Código do Produto: MLB-2191179762
 
-
-https://produto.mercadolivre.com.br/<b>MLB-2191179762</b>-bicicleta-aro-29-krw-aluminio-24-vel-freio-a-disco-x42-_JM?attributes=FRAME_SIZE%3AMTUuNQ%3D%3D&quantity=1
+https://produto.mercadolivre.com.br/MLB-2191179762-bicicleta-aro-29-krw-aluminio-24-vel-freio-a-disco-x42-_JM?attributes=FRAME_SIZE%3AMTUuNQ%3D%3D&quantity=1
 
 
 <img src='./assets/imageList.jpeg' width={300}/>

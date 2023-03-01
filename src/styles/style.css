@@ -45,17 +45,25 @@
     font-size: 20px;
 }
 .itemBox{
+    position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
-    
     width: 80%;
-    background-color: rgb(212, 212, 212);
+    min-height: 70vh;
+    background-color: #dfdcdcf3;
     display: flex;
     border-radius: 25px;
     border-width: 1px;
     
     
+}
+.lottie{
+    margin-top: 3rem;
+    width: 20rem;
+}
+.textLottie{
+    color: #7864d1;
 }
 .containerImage{
     display: flex;
@@ -68,7 +76,7 @@
     width: 8rem;
     border-radius: 15px;
     border-width: 3px;
-    border: blueviolet;
+    border: #8a2be2;
 }
 .image{
     border-width: 8px;
@@ -78,7 +86,7 @@
     display: flex;
    
     width: 100%;
-    height: 5rem;
+    height: 6rem;
     align-items: center;
     margin-top: 1rem;
     
@@ -104,7 +112,6 @@
    
 }
 .colunmItem{
-   
     margin-left: 2rem;
 }
 span#subItensID{
@@ -113,11 +120,21 @@ span#subItensID{
     display: flex;
     align-items: center;
 }
+span#subItensID .subItens{
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+
+}
 span.subItens{
     color: #5700c9;
     margin-top: 0.5rem;
-    
 }
+span.subItens:nth-of-type(3){
+    color: #5700c9;
+    margin-left: 4.3rem;
+}
+
 
 .colunmItem:last-child .subItens:last-child{
     color:#5700c9;
@@ -151,7 +168,7 @@ background-color: #7864d1;
     
     width:2rem;
     height: 2rem;
-    margin-right: 15px;
+    margin-left: 0.5rem;
     background-color: #7864d1;
     justify-content: center;
     align-items: center;

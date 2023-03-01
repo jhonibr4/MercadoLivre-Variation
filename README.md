@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+Mercado Livre Variações
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Essa aplicação foi criada para trazer todas as informações de variações de um produto do Mercado Livre. Essas informações são muito util para vendedores do e-commerce porque caso eles queiram integrar seus produtos e esses produtos possuirem variações é necessário de pelo menos o ID dessas variações, e para encontrar essas variações é possível encontrar pela própria API do Mercado Livre. Mas o problema é que para as pessoas que não tem conhecimento com esses códigos acaba sendo e até mesmo a para quem entende acaba sendo uma tarefa demorada de encontrar o que elas estão buscando.
 
-## Available Scripts
+<img src='./assets/ApiMl.jpeg' width={500}/>
 
-In the project directory, you can run:
+- Agora com a aplicação a identificação dos códigos de variações acaba sendo muito mais fácil por conta de que é feito um filtro das informações e trazendo apenas as informações necessárias.
 
-### `npm start`
+<img src='./assets/imageEmpty.jpeg' width={500}/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Para fazer uma busca do produto que deseja só preciso do código do produto que se encontra na própria URL do produto que se encontra no exemplo abaixo:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+https://produto.mercadolivre.com.br/<b>MLB-2191179762</b>-bicicleta-aro-29-krw-aluminio-24-vel-freio-a-disco-x42-_JM?attributes=FRAME_SIZE%3AMTUuNQ%3D%3D&quantity=1
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src='./assets/imageList.jpeg' width={500}/>

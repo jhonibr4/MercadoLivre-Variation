@@ -15,3 +15,14 @@
 
 
 <img src='./assets/imageList.jpeg' height='400'/>
+
+API:
+Mercado Livre API
+
+Ferramentas Utilizadas:
+React.js
+JavaScript
+
+Bibliotecas:
+Axios
+Lottie

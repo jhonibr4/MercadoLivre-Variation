@@ -21,7 +21,7 @@ Essa aplicação foi criada para trazer todas as informações de variações de
 
 # 🚀Tecnologias
 API:
-Mercado Livre API
+- Mercado Livre API
 
 Ferramentas Utilizadas:
 - React.js

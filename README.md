@@ -20,9 +20,9 @@ API:
 Mercado Livre API
 
 Ferramentas Utilizadas:
-React.js
-JavaScript
+- React.js
+- JavaScript
 
 Bibliotecas:
-Axios
-Lottie
+- Axios
+- Lottie
